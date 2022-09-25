@@ -11,7 +11,7 @@ CSS files were used for site accessabilty and looks. Java Script files were used
       - CSS
       - Java Script
 
-The HTML file should be accessable from the https link: https://github.com/RyanZade/Challange-3.git
+The HTML file should be accessable from the https link: https://ryanzade.github.io/Challange-3/
 
 ![screenshot](./images/screenshot.PNG "Screenshot")
 
